@@ -1,0 +1,15 @@
+.totol-layout {
+  height: 100%;
+}
+
+.header {
+  padding: 0 20%;
+}
+
+.content {
+  padding: 10px 10vw;
+}
+
+.text {
+  color: white;
+}

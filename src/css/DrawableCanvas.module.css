@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.canvas {
+  margin-bottom: 12px;
+  border: 1px solid black;
+  background: white;
+  align-self: flex-start;
+}
