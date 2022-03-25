@@ -12,6 +12,7 @@ function App() {
         <Route path="/2" element={<Page2 />} />
         <Route path="/3" element={<Page3 />} />
         <Route path="/4" element={<Page4 />} />
+        <Route path="/*" element={<Page1 />} />
       </Routes>
     </BrowserRouter>
   )
